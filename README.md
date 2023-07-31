@@ -1,5 +1,9 @@
 # SimpleRA
 
+## Overview
+
+check docs/Overview.md for detailed instructions and descriptions of the dbms.
+
 ## Compilation Instructions
 
 ```cd``` into the soure directory (called ```src```)
