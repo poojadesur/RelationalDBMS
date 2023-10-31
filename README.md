@@ -1,8 +1,8 @@
 # SimpleRA
 
 ## Overview
-
-check docs/Overview.md for detailed instructions and descriptions of the dbms.
+* Coded indexing using B+ Trees, sorting using 2-phase merge sort, joining using partition-hash join
+* check docs/Overview.md for detailed instructions and descriptions of the dbms.
 
 ## Compilation Instructions
 
